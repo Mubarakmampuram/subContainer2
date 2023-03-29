@@ -1,0 +1,8 @@
+{
+  "name": "subContainer2",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/Mubarakmampuram/subContainer2",
+    "ssh": "git@github.com:Mubarakmampuram/subContainer2.git"
+  }
+}
